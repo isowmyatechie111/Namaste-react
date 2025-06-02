@@ -1,0 +1,21 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sowmya",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserlist":[
+    "last 2  versions"
+  ]
+}
